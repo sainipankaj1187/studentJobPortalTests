@@ -4,4 +4,4 @@ Clone and Follow the steps in the ReadMe of this repo: https://github.com/sainip
 Open the repo in IntelliJ
 Go to JobSearchPortal.xml and run it. 
 First test method creates new jobListings by createAPI.
-Second test method searches for jobListings using a few filters.
+Second test method searches for jobListings by a few filters by using searchAPI.
